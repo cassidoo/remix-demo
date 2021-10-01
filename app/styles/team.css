@@ -1,0 +1,7 @@
+a {
+  color: tomato;
+}
+
+a:hover {
+  font-weight: bold;
+}
